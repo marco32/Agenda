@@ -1,0 +1,24 @@
+{
+  "name": "agenda",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marco32/Agenda.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marco32/Agenda/issues"
+  },
+  "homepage": "https://github.com/marco32/Agenda#readme",
+  "description": ""
+}
